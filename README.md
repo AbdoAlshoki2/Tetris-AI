@@ -11,6 +11,9 @@ This project implements a Tetris-playing AI using Python, leveraging a genetic a
 ## 📽️ Presentation
 **Presentation Link**:- *https://docs.google.com/presentation/d/1HPqunoQ04cFeCT4cyBfncDOoXtsCHzrKu9bGPqUYFPc/edit?usp=sharing*
 
+## 📄 Report
+For more details, take a look at the [Report](Tetris-AI-GA-Report.docx.pdf)
+
 ## 🤝 Contributors
 
 [Selsabeel A.](https://github.com/SelsabeelA/)
